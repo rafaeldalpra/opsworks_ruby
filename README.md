@@ -16,7 +16,7 @@ guide in [documentation](http://opsworks-ruby.readthedocs.io/en/latest/index.htm
 
 ## Development
 
-You can either install eveyrthing locally using [rvm](https://rvm.io/) and [pip](https://pypi.python.org/pypi/pip)
+You can either install everything locally using [rvm](https://rvm.io/) and [pip](https://pypi.python.org/pypi/pip)
 or use the Docker container which includes all necessary dependencies inside it.
 
 ### Build documentation
@@ -44,6 +44,7 @@ Author: [Igor Rzegocki](https://www.rzegocki.pl/) ([@ajgon](https://github.com/a
 * Teruo Adachi ([@interu](https://github.com/interu))
 * Marcos Beirigo ([@marcosbeirigo](https://github.com/marcosbeirigo))
 * John Calvin Young ([@johncalvinyoung](https://github.com/johncalvinyoung))
+* Rich Seviora ([@richseviora](https://github.com/richseviora))
 
 ## License
 
